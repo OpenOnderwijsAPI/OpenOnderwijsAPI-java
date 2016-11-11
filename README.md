@@ -1,6 +1,12 @@
 OpenOnderwijsAPI-java
 ========================
 
+## Deprecation notice
+
+**This SDK is outdated and will not be maintained. Please use the [API specification](https://github.com/open-education-api/specification).**  
+
+---
+
 ### Importing the library into your project
 + If you want to be sure that you are using the latest library, build the project yourself as described at the bottom.
 + There's also a library jar available in the Library folder named `oda.jar`.
